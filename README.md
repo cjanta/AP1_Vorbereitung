@@ -5,4 +5,4 @@
 
 
 ### Themen Prüfungskatalog (ohne Gewehr)
-[Themen Prüfungskatalog (ohne Gewehr)](ressource\markdowns\IHK-AP1.md)
+[Themen Prüfungskatalog (ohne Gewehr)](ressource/markdowns/IHK-AP1.md)
